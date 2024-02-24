@@ -33,5 +33,4 @@ My technical skills include:
 
 ## Contact Me
 
-Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rahul-singh-87675a221/)https://www.linkedin.com/in/rahul-singh-87675a221/).
-
+Feel free to reach out to me via email at [rthakur1233@gmail.com](mailto:your-rthakur1233@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-singh-87675a221/)
