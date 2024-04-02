@@ -100,7 +100,7 @@ body{
 }
 .home-content .text-animate h3{
     font-size: 3.2rem;
-    font-weight: 700;
+    font-weight: 500;
     color: transparent;
     -webkit-text-stroke:  .7px var(--main-color);
     background-image: linear-gradient(var(--main-color), var(--main-color));
@@ -432,10 +432,10 @@ span{
     width: 95%;
 }
 .skills-column:nth-child(1) .skill-content .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 95%;
 }
 .skills-column:nth-child(1) .skill-content .progress:nth-child(3) .bar span{
-    width: 65%;
+    width: 90%;
 }
 .skills-column:nth-child(1) .skill-content .progress:nth-child(4) .bar span{
     width: 50%;
